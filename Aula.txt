@@ -1,0 +1,3 @@
+git init (inicializa o git hub)
+git add
+git commit -m(passar mensagem)  "add Aula.txt" 
