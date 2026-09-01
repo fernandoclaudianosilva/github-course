@@ -4,3 +4,10 @@ git commit -m(passar mensagem)  "add Aula.txt"
 
 git status
 git ls
+git log
+git log --decorate
+git log --authot="author name"
+git shortlog
+git diff
+git diff --name-only
+git reset --soft , mixed hard
